@@ -1,4 +1,4 @@
 duo_powershell
 ==============
 
-powershell for installing and registering a Duo install
+powershell script for installing and registering a Duo Security Windows agent install
